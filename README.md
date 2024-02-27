@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project focuses on developing a football players prediciton model based on various parameters. Leveraging TensorFlow, Pandas, and Scikit-learn, a robust system capable of identifying toxic behavior in online comments has been created.
+This project focuses on developing a football players prediciton model based on various parameters. Leveraging TensorFlow, Pandas, and Scikit-learn, a module where on the bases of the skills, gameply, performance it predics the players.
 
 ## Tools and Technologies:
 
