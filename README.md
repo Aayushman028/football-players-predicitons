@@ -6,7 +6,7 @@ This project focuses on developing a football players prediciton model based on 
 
 ## Tools and Technologies:
 
-* TensorFlow: Utilized for building and training deep learning models for toxicity detection, specifically employing Long Short-Term Memory (LSTM) networks.
+* TensorFlow: Utilized for building and training deep learning models for toxicity detection.
 * Pandas: Employed for data manipulation and analysis.
 * Scikit-learn: Used for machine learning algorithms and evaluation metrics.
 
